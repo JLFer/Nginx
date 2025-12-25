@@ -92,9 +92,8 @@ Tras recargar Nginx, desde la red interna se accede a ambos sitios y desde la re
 - Acceso desde Red Interna:
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/5ad177bc-4cd4-4679-a238-d24690dfbd28" />
 
-
 - Acceso desde Red Externa:
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/59b5e923-2e8c-44b3-927e-59064e5527ca" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/a0c405d5-c565-494e-8ca5-b50fa97a1eb7" />
 
 ### g) Autentificación, Autorización y Control de acceso
 En `www.web1.org` se ha creado el directorio `/privado` protegido con autenticación básica para que solo entren usuarios válidos.
